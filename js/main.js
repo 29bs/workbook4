@@ -1,7 +1,8 @@
 'use strict';
 
-  console.log("it's me!");
-  console.log('it\'s me!');
-
-  console.log("hell\no wor\tld");
-  console.log("hello" + "world");
+  console.log(10 + 3);
+  console.log(10 - 3);
+  console.log(10 * 3);
+  console.log(10 / 3);
+  console.log(10 % 3);
+  console.log(10 ** 3);
