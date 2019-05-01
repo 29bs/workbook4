@@ -1,8 +1,6 @@
 'use strict';
 
-  console.log(10 + 3);
-  console.log(10 - 3);
-  console.log(10 * 3);
-  console.log(10 / 3);
-  console.log(10 % 3);
-  console.log(10 ** 3);
+const price = 150;
+
+console.log(price * 140);
+console.log(price * 160);
