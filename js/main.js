@@ -1,4 +1,13 @@
 'use strict';
 
-const double = (a) => a * 2;
-console.log(double(12));
+{
+const x = 2;
+
+function f() {
+  const x = 1;
+  console.log(x);
+}
+
+f();
+console.log(x);
+}
